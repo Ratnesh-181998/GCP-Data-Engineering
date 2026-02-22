@@ -44,13 +44,16 @@ Welcome to the comprehensive repository for **GCP Services for Data Engineering 
 ![Secret Manager](https://img.shields.io/badge/Secret_Manager-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 #### 📝 Detailed Tech Stack Breakdown
-*   **☁️ Cloud Platform**: Google Cloud Platform (GCS, IAM, Pub/Sub, Secret Manager)
-*   **🗄️ Data Warehouse & NoSQL**: BigQuery (SQL), BigTable, Cloud SQL (MySQL)
-*   **⚙️ Processing Frameworks**: Apache Spark (PySpark), Apache Beam, Apache Iceberg, Hive
-*   **📈 Compute & Analytics**: Dataproc (Serverless), Dataflow, Looker Studio
-*   **🔄 Orchestration**: Apache Airflow (GCP Composer), GCP Workflows, Cloud Scheduler
-*   **🛠️ Serverless & DevOps**: Cloud Run Functions, Docker, Terraform, Cloud Build, GitHub Actions
-*   **🐍 Languages & Libraries**: Python, SQL, Pandas, PyTest
+
+| Category | Technologies |
+| :--- | :--- |
+| **☁️ Cloud Platform** | Google Cloud Platform (GCS, IAM, Pub/Sub, Secret Manager) |
+| **🗄️ Data Warehouse & NoSQL** | BigQuery (SQL), BigTable, Cloud SQL (MySQL) |
+| **⚙️ Processing Frameworks** | Apache Spark (PySpark), Apache Beam, Apache Iceberg, Hive |
+| **📈 Compute & Analytics** | Dataproc (Serverless), Dataflow, Looker Studio |
+| **🔄 Orchestration** | Apache Airflow (GCP Composer), GCP Workflows, Cloud Scheduler |
+| **🛠️ Serverless & DevOps** | Cloud Run Functions, Docker, Terraform, Cloud Build, GitHub Actions |
+| **🐍 Languages & Libraries** | Python, SQL, Pandas, PyTest |
 
 ---
 
