@@ -92,12 +92,14 @@ Welcome to the comprehensive repository for **GCP Services for Data Engineering 
 
 This repository includes several end-to-end industrial projects:
 
-1.  **✈️ Flight Booking Data Pipeline**: Airflow, PySpark, Dataproc Serverless, BigQuery, CI/CD with GitHub Actions.
-2.  **🌦️ Weather Forecast Data Processing**: Open Weather API, Composer, PySpark, Dataproc Serverless, BigQuery.
-3.  **🚗 Uber Car Idle Realtime Alerts**: Pub-Sub, Dataflow (Apache Beam), BigQuery, Cloud Run Functions.
-4.  **💳 Credit Card Fraud Alert Pipeline**: Airflow, Dataproc Serverless, Python, BigQuery, PyTest, Looker Studio.
-5.  **🏆 Realtime Game Leaderboard**: Pub-Sub, Dataflow, BigQuery, Cloud Run Functions, Scheduled Queries.
-6.  **📺 YouTube Wide Trending Engagement**: GCS, Composer, PySpark, Dataproc, Iceberg, BigQuery.
+| # | Project Name | Tech Stack |
+|---|--------------|------------|
+| 1 | **✈️ Flight Booking Data Pipeline** | Airflow, PySpark, Dataproc Serverless, BigQuery, CI/CD with GitHub Actions |
+| 2 | **🌦️ Weather Forecast Data Processing** | Open Weather API, Composer, PySpark, Dataproc Serverless, BigQuery |
+| 3 | **🚗 Uber Car Idle Realtime Alerts** | Pub-Sub, Dataflow (Apache Beam), BigQuery, Cloud Run Functions |
+| 4 | **💳 Credit Card Fraud Alert Pipeline** | Airflow, Dataproc Serverless, Python, BigQuery, PyTest, Looker Studio |
+| 5 | **🏆 Realtime Game Leaderboard** | Pub-Sub, Dataflow, BigQuery, Cloud Run Functions, Scheduled Queries |
+| 6 | **📺 YouTube Wide Trending Engagement** | GCS, Composer, PySpark, Dataproc, Iceberg, BigQuery |
 
 ---
 
