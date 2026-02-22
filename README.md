@@ -75,7 +75,7 @@ Welcome to the comprehensive repository for **GCP Services for Data Engineering 
 
 ---
 
-## 📚 Course Modules
+## 📚 Modules Breakdown ( Live Content's Coming Soon )
 
 ### 🔹 Module 1: GCP Foundations & Serverless
 - **Fundamentals**: GCS (Google Cloud Storage), IAM (Identity and Access Management).
