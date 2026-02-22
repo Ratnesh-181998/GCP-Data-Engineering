@@ -14,6 +14,12 @@
 
 Welcome to the comprehensive repository for **GCP Services for Data Engineering with Projects**. This course is designed to take you from a beginner to an advanced level in Google Cloud Platform (GCP) data engineering, covering everything from fundamental services to building complex, industrial-scale data pipelines.
 
+<img width="1382" height="867" alt="image" src="https://github.com/user-attachments/assets/1fdd0db7-7eb8-4a88-80ed-1e806fc7d29d" />
+
+
+<img width="1459" height="833" alt="image" src="https://github.com/user-attachments/assets/138c01d5-e697-4a81-9970-4d029e8ab688" />
+
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -81,6 +87,7 @@ Welcome to the comprehensive repository for **GCP Services for Data Engineering 
   - Setting up Compute Engines and monitoring health.
   - Implementing HTTP & Event-driven Cloud Run Functions.
   - CI/CD with Cloud Build & GitHub.
+<img width="815" height="1140" alt="image" src="https://github.com/user-attachments/assets/5380223e-5e41-41cb-9d9f-9c4feeb4a5d3" />
 
 ### 🔹 Module 2: Databases, Streaming & BigQuery
 - **Storage & DB**: Cloud SQL (MySQL), Secret Manager, BigTable.
@@ -92,6 +99,8 @@ Welcome to the comprehensive repository for **GCP Services for Data Engineering 
   - Dataflow FlexTemplates for custom pipelines.
   - Advanced BigQuery operations: Partitioning, Clustering, Time Travel.
   - Geolocation & AI-assisted analysis with Gemini.
+<img width="836" height="729" alt="image" src="https://github.com/user-attachments/assets/28d6dccc-1321-492c-810f-61b6591fad4a" />
+<img width="835" height="1069" alt="image" src="https://github.com/user-attachments/assets/69b72984-ade6-4108-881b-98e3dd17eba7" />
 
 ### 🔹 Module 3: Big Data Processing & Orchestration
 - **Managed Clusters**: GCP Dataproc (Hadoop, Yarn, Spark, Hive).
@@ -101,6 +110,7 @@ Welcome to the comprehensive repository for **GCP Services for Data Engineering 
   - Incremental data ingestion (SCD Type 2) in BigQuery.
   - Spark Structured Streaming with Iceberg on GCS.
   - Designing complex Airflow DAGs for automated workflows.
+<img width="830" height="1229" alt="image" src="https://github.com/user-attachments/assets/c1c81dc0-84fe-4853-9572-c6401c824136" />
 
 ### 🔹 Module 4: No-Code Pipelines & Workflows
 - **ETL/ELT**: GCP Data Fusion (Wrangler Transformations).
@@ -109,6 +119,8 @@ Welcome to the comprehensive repository for **GCP Services for Data Engineering 
   - Building no-code pipelines for Fintech & HackerNews data.
   - Orchestrating Cloud Run Functions & Dataproc jobs using GCP Workflows.
   - Handling event-driven triggers for SCD2 operations.
+<img width="836" height="1096" alt="image" src="https://github.com/user-attachments/assets/50198a01-109f-4bed-8f88-5844052662b1" />
+<img width="832" height="934" alt="image" src="https://github.com/user-attachments/assets/22f23690-2bdf-43d4-83ad-888dedd04329" />
 
 ---
 
@@ -124,6 +136,8 @@ This repository includes several end-to-end industrial projects:
 | 4 | **💳 Credit Card Fraud Alert Pipeline** | Airflow, Dataproc Serverless, Python, BigQuery, PyTest, Looker Studio |
 | 5 | **🏆 Realtime Game Leaderboard** | Pub-Sub, Dataflow, BigQuery, Cloud Run Functions, Scheduled Queries |
 | 6 | **📺 YouTube Wide Trending Engagement** | GCS, Composer, PySpark, Dataproc, Iceberg, BigQuery |
+
+<img width="842" height="583" alt="image" src="https://github.com/user-attachments/assets/f2034213-fa3b-4fec-9e4a-72523117ae3a" />
 
 ---
 
